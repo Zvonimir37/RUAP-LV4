@@ -110,7 +110,7 @@ echo "<h3>No one is currently registered.</h3>";
 }
  else
 {
-U terminalu idite na putanju mape vaše aplikacije i upišite sljedeću naredbu:
+/*U terminalu idite na putanju mape vaše aplikacije i upišite sljedeću naredbu:
 Sada možete u pregledniku otići na adresu http://localhost:8000/ kako biste testirali vašu
 aplikaciju.
 6. Objavljivanje vaše aplikacije
@@ -120,7 +120,7 @@ kreirali na GitHub-u, te potom objaviti aplikaciju.
 1. Kako biste povezali svoj lokalni Git repozitorij s Azure Web App-om, potrebno je prvo
 definirati deployment opciju na Azure upravljačkoj konzoli vašeg Web App servisa.
 Odaberite Local Git Repository ili GitHub ukoliko ste se odlučili koristiti GitHub
-udaljeni repozitorij.
+udaljeni repozitorij.*/
 echo "Insert Failed";
 }
 }
